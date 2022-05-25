@@ -1,0 +1,277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=windows-1252" />
+    <title>HCH - Opening Meet</title>
+    <style type="text/css"> 
+
+html, body{
+        padding: 0px;
+        margin: 20px;
+        background-image: url("back.gif");
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 1em;
+		font-weight:normal;
+}
+
+#Title {
+
+	margin-top: 17px;
+	text-align: center;
+
+}
+.container{
+  float: left;
+  clear: left;
+
+}
+
+.left {
+  float: left;
+  width: 1000px;
+  padding: 10px;
+  text-align: center;
+
+}
+
+.right {
+  float: right;
+  width: 1000px;
+  padding: 10px;
+  text-align:center;
+
+}
+
+img {
+	border: 2px solid;
+
+	padding: 1px;
+}
+
+  </style>
+  </head>
+  <body>
+    <div id="Title"> <span style="font-size: 2em; font-weight: bold;">Opening
+        Meet at Bedrock<br />
+          </span>November 2015<br />
+      <br />
+    </div>
+
+    <div class="clear">
+      <div class="container">
+        <div class="right"> <img alt="" src="04.jpg" /></div>
+        <div class="left"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="right"> </div>
+        <div class="left"> <img alt="" src="02.jpg" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="right"> <img alt="" src="03.jpg" /><br />
+        </div>
+        <div class="left"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="right"> </div>
+        <div class="left"> <img alt="" src="05.jpg" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="right"> <img alt="" src="06.jpg" /><br />
+        </div>
+        <div class="left"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="07.jpg" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="08.jpg" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="09.jpg" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="10.jpg" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="11.jpg" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="12.jpg" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="13.jpg" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="15.jpg" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="16.jpg" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="17.jpg" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="18.jpg" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="19.jpg" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="20.jpg" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="21.jpg" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="22.jpg" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="23.jpg" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="24.jpg" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="25.jpg" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="26.jpg" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="27.jpg" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="28.jpg" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="29.jpg" alt="" /></div>
+      </div>
+    </div>
+    <div class="clear"> 
+      <div class="container">
+        <div class="left"> <img src="30.jpg" alt="" /></div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="31.jpg" alt="" /></div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img src="32.jpg" alt="" /></div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="33.jpg" alt="" /><br />
+          <div style="text-align: left;"><br />
+          </div>
+        </div>
+      </div>
+    </div>
+    <br />
+    <a href="http://www.hickorycreekhunt.com/151121/page2.html">Next Page </a>
+  </body>
+</html>

@@ -1,0 +1,283 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=windows-1252" />
+    <title>HCH - Formal Hunting</title>
+    <style type="text/css"> 
+
+html, body{
+        padding: 0px;
+        margin: 20px;
+        background-image: url("back.gif");
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 1em;
+		font-weight:normal;
+}
+
+#Title {
+
+	margin-top: 17px;
+	text-align: center;
+
+}
+.container{
+  float: left;
+  clear: left;
+
+}
+
+.left {
+  float: left;
+  width: 1000px;
+  padding: 10px;
+  text-align: center;
+
+}
+
+.right {
+  float: right;
+  width: 1000px;
+  padding: 10px;
+  text-align:center;
+
+}
+
+img {
+	border: 2px solid;
+
+	padding: 1px;
+}
+
+  </style>
+  </head>
+  <body>
+    <div id="Title"> <span style="font-size: 2em; font-weight: bold;">Formal
+        Hunting at Butterfield<br />
+          </span>January 2015<br />
+      <br />
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="right"> </div>
+        <div class="left"> <img src="66.jpg" alt="" /></div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="right"> <img src="68.jpg" alt="" /></div>
+        <div class="left"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="right"> </div>
+        <div class="left"> <img src="69.jpg" alt="" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="right"> <img src="70.jpg" alt="" /><br />
+        </div>
+        <div class="left"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="right"> </div>
+        <div class="left"> <img src="72.jpg" alt="" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="right"> <img src="73.jpg" alt="" /><br />
+        </div>
+        <div class="left"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img src="74.jpg" alt="" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="76.jpg" alt="" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img src="77.jpg" alt="" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="78.jpg" alt="" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img src="79.jpg" alt="" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="80.jpg" alt="" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img src="81.jpg" alt="" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="82.jpg" alt="" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img src="83.jpg" alt="" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="84.jpg" alt="" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img src="85.jpg" alt="" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="86.jpg" alt="" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img src="87.jpg" alt="" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="88.jpg" alt="" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img src="91.jpg" alt="" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="92.jpg" alt="" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img src="93.jpg" alt="" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="94.jpg" alt="" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img src="95.jpg" alt="" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img src="96.jpg" alt="" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img src="97.jpg" alt="" /><br />
+        </div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="98.jpg" /></div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="100.jpg" /></div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="101.jpg" /></div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> <img alt="" src="102.jpg" /></div>
+        <div class="right"> </div>
+      </div>
+    </div>
+    <div class="clear">
+      <div class="container">
+        <div class="left"> </div>
+        <div class="right"> <img alt="" src="103.jpg" /><br />
+          <div style="text-align: left;"><br />
+          </div>
+        </div>
+      </div>
+    </div>
+    <br />
+   
+    
+  </body>
+</html>
